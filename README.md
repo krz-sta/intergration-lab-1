@@ -2,6 +2,8 @@
 
 ## Lab 1
 
+### Zmiana README.md (remote)
+
 **Celem laboratorium jest poznanie systemu kontroli wersji Git, GitHub oraz konfiguracji środowiska Django.**
 
 ## Wymagania
